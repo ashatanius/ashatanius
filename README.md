@@ -3,7 +3,7 @@
 
 - 🔭 В данный момент работаю над **[пет-проектом по анализу авторынка Казахстана](https://github.com/ashatanius/pet_projects).**
 
-- 🌱 Дополнительно прохожу **[Симулятор SQL (karpov.courses)](https://karpov.courses/simulator-sql).**
+- 🌱 Сейчас изучаю **[Симулятор SQL](https://karpov.courses/simulator-sql).**
 
 - 📫 Связаться со мной: **iakovleva.no@gmail.com / [t.me/ashatanius](https://t.me/ashatanius).**
 
